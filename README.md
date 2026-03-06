@@ -7,24 +7,21 @@ Students often: Struggle with difficult concepts, Don’t have immediate doubt s
 
 Learnova solves this by providing instant AI-powered learning assistance.
 
-Features
+*Features
 AI-based doubt solving
 Easy-to-understand explanations
 Topic summarization
 Practice question generation
 Personalized learning support
 User-friendly interface
+
 *Tech Stack
-
 Frontend: HTML / CSS / JavaScript / React
-
 Backend: Node.js / Python
-
 AI Integration: OpenAI API / Machine Learning Model
-
 Database: MongoDB / Firebase / MySQL
 
-How It Works
+*How It Works
 User enters a question or topic.
 
 Learnova processes the input using AI.
@@ -39,14 +36,14 @@ Practice questions
 
 User can ask follow-up questions for deeper understanding.
 
-Future Enhancements
+1.Future Enhancements
 
-Voice-based interaction
+2.Voice-based interaction
 
-Multi-language support
+3.Multi-language support
 
-Student performance tracking
+4.Student performance tracking
 
-Mobile app version
+5.Mobile app version
 
-AI-based quiz & test generation
+6.AI-based quiz & test generation

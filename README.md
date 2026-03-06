@@ -8,17 +8,18 @@ Students often: Struggle with difficult concepts, Don’t have immediate doubt s
 Learnova solves this by providing instant AI-powered learning assistance.
 
 *Features
-AI-based doubt solving 
 
-Easy-to-understand explanations
+ 1.AI-based doubt solving 
 
-Topic summarization
+ 2.Easy-to-understand explanations
 
-Practice question generation
+ 3.Topic summarization
 
-Personalized learning support
+ 4.Practice question generation
 
-User-friendly interface
+ 5.Personalized learning support
+
+ 6.User-friendly interface
 
 *Tech Stack
 

@@ -60,11 +60,5 @@ User can ask follow-up questions for deeper understanding.
  6.AI-based quiz & test generation
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Learnova - Study Material Platform</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
         

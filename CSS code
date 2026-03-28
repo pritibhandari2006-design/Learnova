@@ -1,1 +1,139 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background: linear-gradient(to right, #fdfbfb, #ebedee);
+    text-align: center;
+    color: #333;
+}
 
+header {
+    background: linear-gradient(90deg, #6a11cb, #2575fc);
+    color: white;
+    padding: 30px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+nav {
+    background: #2c2c54;
+    padding: 12px;
+}
+
+nav a {
+    color: #fff;
+    margin: 15px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+nav a:hover {
+    color: #ff6b81;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #2575fc;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: linear-gradient(145deg, #ffecd2, #fcb69f);
+    padding: 25px;
+    width: 220px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+    transition: transform 0.3s, box-shadow 0.3s;
+    color: #2c2c2c;
+}
+
+.card:hover {
+    transform: translateY(-7px);
+    box-shadow: 0 15px 25px rgba(0,0,0,0.2);
+}
+
+button {
+    padding: 12px 25px;
+    background: linear-gradient(45deg, #ff6b81, #ffb347);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 8px;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+button:hover {
+    transform: scale(1.05);
+    background: linear-gradient(45deg, #ff9472, #ff6b81);
+}
+
+#quiz button {
+    margin-top: 10px;
+}
+
+.coming-soon {
+    background: #ffe3b3;
+    border-left: 6px solid #ffb347;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 12px;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+textarea {
+    width: 80%;
+    height: 90px;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    padding: 12px;
+    margin-top: 10px;
+    resize: none;
+    font-size: 1em;
+}
+
+.feedback-display {
+    margin-top: 15px;
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feedback-display p {
+    background: #d4f1f4;
+    padding: 12px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    color: #0b3d91;
+    font-weight: 500;
+}
+
+footer {
+    background: #2c2c54;
+    color: white;
+    padding: 25px;
+}
